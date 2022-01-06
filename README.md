@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/lucas-gabriel-lisboa-alves-a079a31a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/lucasz_lisboa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:gabriel.lisboa.141@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/lucasz_lisboa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 </div>
 
