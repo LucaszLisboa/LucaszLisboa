@@ -8,19 +8,19 @@
 <br>
   
 <div align="center">
-  <a href="https://twitter.com/lucaszlisboa" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lucas-gabriel-lisboa-alves-a079a31a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/lucasz_lisboa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:gabriel.lisboa.141@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/lucaszlisboa" target="_blank"> <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucas-gabriel-lisboa-alves-a079a31a6/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/lucasz_lisboa" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:gabriel.lisboa.141@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
 ## About me
 ### I'm a Programming Languages student, and I plan to work with front-end in the future.
   <ul> 
-    <li>💻 [Website](https://lucaszlisboa.github.io/) - Working on it. </li>
+    <li>💻 <a href="https://lucaszlisboa.github.io/" target="_blank">[Website]</a> - Working on it. </li>
     <li>👨🏻‍💻 IDE: VsCode </li>
-    <li>👦🏻 I'm 17 years old. </li>
+    <li>👦🏻 I'm 18 years old. </li>
     <li>🎮 I love games and technology. </li>
     <li>💼 Currently working at Pado Labs. </li>
   </ul>
