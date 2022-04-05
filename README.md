@@ -16,7 +16,7 @@
 </div>
 
 ## About me
-### I'm a Programming Languages student, and I plan to work with front-end in the future.
+### I'm a Programming Languages student, and I plan to work with back-end in the future.
   <ul> 
     <li>💻 <a href="https://lucaszlisboa.github.io/" target="_blank">[Website]</a> - Working on it. </li>
     <li>👨🏻‍💻 IDE: VsCode </li>
