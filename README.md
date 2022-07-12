@@ -19,8 +19,8 @@
 ### I'm a Programming Languages student, and I plan to work with back-end in the future.
   <ul> 
     <li>💻 <a href="https://lucaszlisboa.github.io/" target="_blank">[Website]</a> - Working on it. </li>
-    <li>👨🏻‍💻 IDE: VsCode </li>
+    <li>👨🏻‍💻 IDEs: VsCode, IntelliJ IDEA </li>
     <li>👦🏻 I'm 18 years old. </li>
     <li>🎮 I love games and technology. </li>
-    <li>💼 Currently working at Pado Labs. </li>
+    <li>💼 Currently working at Pado Labs - PADO S.A. . </li>
   </ul>
