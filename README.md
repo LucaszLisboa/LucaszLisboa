@@ -16,11 +16,10 @@
 </div>
 
 ## About me
-### I'm a Programming Languages student, and I plan to work with back-end in the future.
+### I'm a Programming student, and I intend to specialize in full stack..
   <ul> 
     <li>💻 <a href="https://lucaszlisboa.github.io/" target="_blank">[Website]</a> - Working on it. </li>
     <li>👨🏻‍💻 IDEs: VsCode, IntelliJ IDEA </li>
     <li>👦🏻 I'm 18 years old. </li>
     <li>🎮 I love games and technology. </li>
-    <li>💼 Currently working at Pado Labs - PADO S.A. . </li>
   </ul>
