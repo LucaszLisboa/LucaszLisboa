@@ -19,7 +19,7 @@
 ### I'm a Programming student, and I intend to specialize in full stack..
   <ul> 
     <li>💻 <a href="https://lucaszlisboa.github.io/" target="_blank">[Website]</a> - Working on it. </li>
-    <li>👨🏻‍💻 IDEs: VsCode, IntelliJ IDEA </li>
-    <li>👦🏻 I'm 18 years old. </li>
+    <li>👨🏻‍💻 IDEs: VsCode, IntelliJ IDEA, Eclipse </li>
+    <li>👦🏻 I'm 19 years old. </li>
     <li>🎮 I love games and technology. </li>
   </ul>
