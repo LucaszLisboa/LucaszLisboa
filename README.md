@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/lucaszlisboa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucaszLisboa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaszLisboa&layout=compact&langs_count=4&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaszLisboa&layout=compact&theme=dark"/>
 </div>
   
 <br>
@@ -20,6 +20,6 @@
   <ul> 
     <li>💻 <a href="https://lucaszlisboa.github.io/" target="_blank">[Website]</a> - Working on it. </li>
     <li>👨🏻‍💻 IDEs: VsCode, IntelliJ IDEA, Eclipse </li>
-    <li>👦🏻 I'm 19 years old. </li>
+    <li>👦🏻 I'm 20 years old. </li>
     <li>🎮 I love games and technology. </li>
   </ul>
