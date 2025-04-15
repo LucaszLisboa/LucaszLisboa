@@ -20,6 +20,6 @@
   <ul> 
     <li>💻 <a href="https://lucaszlisboa.github.io/" target="_blank">[Website]</a> - Working on it. </li>
     <li>👨🏻‍💻 IDEs: VsCode, IntelliJ IDEA, Eclipse </li>
-    <li>👦🏻 I'm 20 years old. </li>
+    <li>👦🏻 I'm 21 years old. </li>
     <li>🎮 I love games and technology. </li>
   </ul>
